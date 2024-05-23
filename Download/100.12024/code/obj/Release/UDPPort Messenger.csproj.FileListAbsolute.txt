@@ -9,3 +9,14 @@ R:\VisualStudio\UDPPort Messenger\obj\Release\UDPPort Messenger.csproj.CoreCompi
 R:\VisualStudio\UDPPort Messenger\obj\Release\UDPPortMessenger.exe
 R:\VisualStudio\UDPPort Messenger\obj\Release\UDPPortMessenger.pdb
 R:\VisualStudio\UDPPort Messenger\obj\Release\LogTerminal.FrmTerminal.resources
+R:\UDPPort-Messenger\Download\100.12024\code\bin\Release\UDPPortMessenger.exe.config
+R:\UDPPort-Messenger\Download\100.12024\code\bin\Release\UDPPortMessenger.exe
+R:\UDPPort-Messenger\Download\100.12024\code\bin\Release\UDPPortMessenger.pdb
+R:\UDPPort-Messenger\Download\100.12024\code\obj\Release\UDPPort Messenger.csproj.AssemblyReference.cache
+R:\UDPPort-Messenger\Download\100.12024\code\obj\Release\LogTerminal.AboutBox.resources
+R:\UDPPort-Messenger\Download\100.12024\code\obj\Release\LogTerminal.FrmTerminal.resources
+R:\UDPPort-Messenger\Download\100.12024\code\obj\Release\LogTerminal.Properties.Resources.resources
+R:\UDPPort-Messenger\Download\100.12024\code\obj\Release\UDPPort Messenger.csproj.GenerateResource.cache
+R:\UDPPort-Messenger\Download\100.12024\code\obj\Release\UDPPort Messenger.csproj.CoreCompileInputs.cache
+R:\UDPPort-Messenger\Download\100.12024\code\obj\Release\UDPPortMessenger.exe
+R:\UDPPort-Messenger\Download\100.12024\code\obj\Release\UDPPortMessenger.pdb

@@ -1,0 +1,58 @@
+﻿//****************************************************************************
+//****************************************************************************
+/** START SUMMARY
+FEATURES
+UDP Messenging - Send/Receive and log the exchanged UDP messages.
+Host/Client -
+    Connects to matching IP address/port number
+Network Utilities -
+    Subnet Device Ping - List all devices in network
+    Get Host Name - Get and Print Host Name if available
+    Combined Device Ping and Get Host Name
+
+
+DEBUG FEATURES
+Additional Trace output
+Additional WPF Buttons
+
+FUTURE FEATURES
+Modify to custom Server IP Address and restore when program closed (Perhaps add checkbox to allow user to decide if restore needed)
+
+
+END SUMMARY**/
+//****************************************************************************
+//****************************************************************************
+/** START CHANGE NOTES
+
+Ver 1.2.0.* {Release Notes} {NLD}
+Interface Restructuring, utilize Parent / Child forms
+
+Ver 1.1.0.* {Release Notes} {NLD}
+Adds Installer (Debug and Released Build)
+Fixed unable to open socket due to fast connect/disconnects at UDPConnect
+
+Ver 1.0.0.* {Release Notes} {NLD}
+Initial Release (no installer)
+
+Ver 1.0.0.* {Known Issues} {NLD}
+Upon quick connect+disconnects, would get in a state that cannot reopen socket
+Need more testing to ensure socket properly will close during unexpected exits.
+Need to evaluate if improvements could be made for Slow Scan to release UI.
+
+
+//template
+Ver major.minor.bugs.revision/*build {type} {author}
+
+END CHANGE NOTES**/
+//****************************************************************************
+//****************************************************************************
+/** START RELEASE INSTRUCTIONS
+
+1. Update revision number at AssemblyInfo.cs
+2. Select build configuration
+3. Build with Installer (Build configuration is kept seperately)
+4. Install + Verify Revision Numbers. Rename installer after verification.
+
+ END RELEASE INSTRUCTIONS**/
+  //****************************************************************************
+//****************************************************************************
